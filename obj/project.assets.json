@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hotcheetos/Desktop/HighOrLow/Unit02.csproj",
-      "projectName": "Unit02",
-      "projectPath": "/Users/hotcheetos/Desktop/HighOrLow/Unit02.csproj",
+      "projectUniqueName": "/Users/hotcheetos/Desktop/HighOrLow/HighLow.csproj",
+      "projectName": "HighLow",
+      "projectPath": "/Users/hotcheetos/Desktop/HighOrLow/HighLow.csproj",
       "packagesPath": "/Users/hotcheetos/.nuget/packages/",
       "outputPath": "/Users/hotcheetos/Desktop/HighOrLow/obj/",
       "projectStyle": "PackageReference",

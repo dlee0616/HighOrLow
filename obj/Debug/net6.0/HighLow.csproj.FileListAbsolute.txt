@@ -1,0 +1,15 @@
+/Users/hotcheetos/Desktop/HighOrLow/bin/Debug/net6.0/HighLow
+/Users/hotcheetos/Desktop/HighOrLow/bin/Debug/net6.0/HighLow.deps.json
+/Users/hotcheetos/Desktop/HighOrLow/bin/Debug/net6.0/HighLow.runtimeconfig.json
+/Users/hotcheetos/Desktop/HighOrLow/bin/Debug/net6.0/HighLow.dll
+/Users/hotcheetos/Desktop/HighOrLow/bin/Debug/net6.0/HighLow.pdb
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/HighLow.csproj.AssemblyReference.cache
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/HighLow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/HighLow.AssemblyInfoInputs.cache
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/HighLow.AssemblyInfo.cs
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/HighLow.csproj.CoreCompileInputs.cache
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/HighLow.dll
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/refint/HighLow.dll
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/HighLow.pdb
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/HighLow.genruntimeconfig.cache
+/Users/hotcheetos/Desktop/HighOrLow/obj/Debug/net6.0/ref/HighLow.dll
