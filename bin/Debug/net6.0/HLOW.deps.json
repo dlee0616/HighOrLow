@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Unit02/1.0.0": {
+      "HighLow/1.0.0": {
         "runtime": {
-          "Unit02.dll": {}
+          "HighLow.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Unit02/1.0.0": {
+    "HighLow/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
